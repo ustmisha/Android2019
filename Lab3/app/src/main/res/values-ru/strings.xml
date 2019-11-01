@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Лаба 3</string>
+    <string name="ok">Ок</string>
+    <string name="enter_quastion">Введите вопрос</string>
+    <string name="quitmessage">Вы точно хотите выйти?</string>
+    <string name="quit_yes">Да</string>
+    <string name="quit_nope">Нит</string>
+    <string name="quit">Выход</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="ok">Ok</string>
+    <string name="enter_quastion">Enter question</string>
+    <string name="quitmessage">Would you like to quit?</string>
+    <string name="quit_yes">Yes</string>
+    <string name="quit_nope">Nope</string>
+    <string name="quit">Quit</string>
+</resources>
